@@ -19,8 +19,8 @@ Specifically, it uses:
 ## Installation
 
 You can install the required dependencies using `pip`:
-```bash
-pip install google-generativeai rich
+    ```bash
+    pip install google-generativeai rich
 
 ## Configuration                                                 
 
